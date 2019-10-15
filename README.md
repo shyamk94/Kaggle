@@ -1,2 +1,2 @@
 # SelfProjects
-All data is taken from Kaggle. 
+Datasets are from Kaggle. 
